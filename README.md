@@ -3,3 +3,5 @@ Functions to analyze accuracy/effectiveness versus time/size as an asymptote. As
 
 Python-functions included are for fitting the data to either asymptote or straight lines, calculate confidence intervals by residuals or by bootstrap. Simulate asymptote function with error from the binomial distribution. Simulate null-hypothesis data and estimate type 1 error. 
 
+Last updated: 01/28/23
+
